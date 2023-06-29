@@ -1,0 +1,6 @@
+- Martin A. Gonzalez
+- martin.gonzalez@noaa.gov, mgonz266@ucsc.edu, martin123agonzalez@gmail.com
+- Senior at UCSC, currently studying Marine Biology and Earth Science
+- NOAA EPP/MSI Undergraduate Scholar and undergraduate researcher with the Bio-Telemetry and Behavioral Ecology Lab (BTBEL) at UCSC
+- I've previously worked with AFSC on a Vector-Autoregressive Spatio-Temporal (VAST) Model investigating the density effects of B. magister upon A. fimbria in the Bering Sea.
+- 
