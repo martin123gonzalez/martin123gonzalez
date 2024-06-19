@@ -1,6 +1,7 @@
 - Martin A. Gonzalez
-- martin.gonzalez@noaa.gov, mgonz266@ucsc.edu, martin123agonzalez@gmail.com
-- Senior at UCSC, currently studying Marine Biology and Earth Science
-- NOAA EPP/MSI Undergraduate Scholar and undergraduate researcher with the Bio-Telemetry and Behavioral Ecology Lab (BTBEL) at UCSC
-- I've previously worked with AFSC on a Vector-Autoregressive Spatio-Temporal (VAST) Model investigating the density effects of B. magister upon A. fimbria in the Bering Sea.
-- 
+- mgonz266@ucsc.edu, martin123agonzalez@gmail.com
+- B.S. Marine Biology, B.S. Earth Science (Ocean Science Concentration), UC Santa Cruz
+- Notable previous projects:
+  - Time-lag models of the temporal relationship between storm disturbances and humpback whale occurrences in the nearshore environment surrounding the West Antarctic Peninsula. 
+  - Vector-Autoregressive Spatio-Temporal (VAST) models investigating the density effects of the prey species Commander Squid upon the predator species Sablefish in the Bering Sea Slope for NOAA stock assessment.
+  - von Bertalanffy growth curves for Atlantic Surfclams under different environmental conditions on Cape Cod, MA.
